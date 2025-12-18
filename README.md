@@ -1,10 +1,10 @@
 ## About me:
 
-*🎓 7th-semester Computer Engineering student*
+*7th-semester Computer Engineering student*
 
-*🛠️ Experience in IT Support*
+*Experience in IT Support*
 
-*👓 Seeking my first professional opportunity as a Software Developer*
+*Seeking my first professional opportunity as a Software Developer*
 
 **Linux Lover - Windows Hater**
 
