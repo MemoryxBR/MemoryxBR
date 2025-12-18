@@ -1,16 +1,21 @@
-## Hi there 👋
+## About me:
 
-<!--
-**MemoryxBR/MemoryxBR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+*🎓 7th-semester Computer Engineering student*
 
-Here are some ideas to get you started:
+*🛠️ Experience in IT Support*
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+*👓 Seeking my first professional opportunity as a Software Developer*
+
+**Linux Lover - Windows Hater**
+
+## Skills
+
+![Static Badge](https://img.shields.io/badge/English%20-%20purple?style=for-the-badge)
+
+## OS 💻
+
+![Static Badge](https://img.shields.io/badge/Arch%20Linux%20-%20blue?style=for-the-badge)
+![Static Badge](https://img.shields.io/badge/Fedora%20Linux%20-%20red?style=for-the-badge)
+![Static Badge](https://img.shields.io/badge/Windows%20-%20green?style=for-the-badge)
+
+
